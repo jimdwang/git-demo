@@ -21,3 +21,4 @@ testing ssh
 testing ssh 2
 ssh 果然厉害
 vscode demo1
+vscode demo2
